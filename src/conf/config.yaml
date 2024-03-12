@@ -1,0 +1,9 @@
+#  Hydra.cc config file for Mediapipe to Openpose JSON export
+
+files:
+  test_img_path : /home/rhino/projects/mediapipe-to-openpose-json/images
+
+
+params:
+  # For Img JSON
+  write_json : True

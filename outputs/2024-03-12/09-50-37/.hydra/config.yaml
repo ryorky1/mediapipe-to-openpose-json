@@ -1,0 +1,4 @@
+files:
+  test_img_path: /home/rhino/projects/mediapipe-to-openpose-json/images
+params:
+  write_json: true
